@@ -59,7 +59,7 @@ LINEミニアプリの開発を外部委託した場合など、LINEミニアプ
 
 ユーザーが[アクションボタン](https://developers.line.biz/ja/docs/line-mini-app/discover/builtin-features/#action-button)を押したときに、[LINE Developersコンソール](https://developers.line.biz/console/)に登録した以下の情報が、[マルチタブビュー](https://developers.line.biz/ja/docs/line-mini-app/discover/builtin-features/#multi-tab-view)に表示されます。
 
-![](https://developers.line.biz/media/line-mini-app/develop/mini-multi-tab-view-config-ja.png)
+![](https://developers.line.biz/media/line-mini-app/discover/mini-multi-tab-view-ja.png)
 
 | 情報 | 設定 |
 | --- | --- |

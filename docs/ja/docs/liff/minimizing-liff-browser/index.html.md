@@ -54,9 +54,9 @@ LIFFブラウザを最小化するには、以下の3つの方法があります
 
 ### アクションボタンからオプションをタップする 
 
-[アクションボタン](https://developers.line.biz/ja/docs/liff/overview/#action-button)から[マルチタブビュー](https://developers.line.biz/ja/docs/liff/overview/#multi-tab-view)を開き、［**ページを最小化**］オプションをタップします。
+[アクションボタン](https://developers.line.biz/ja/docs/liff/overview/#action-button)からドロップダウンメニューを開き、［**ページを最小化**］オプションをタップします。
 
-![LIFFブラウザの最小化（アクションボタンのオプションをタップする）](https://developers.line.biz/media/liff/minimizing-liff-app/tap-action-button-option-ja.png)
+![](https://developers.line.biz/media/line-mini-app/discover/mini-header-action-button-tap-ja.png)
 
 ### アプリ内通知をタップする 
 
@@ -69,6 +69,12 @@ LIFFブラウザを最小化するには、以下の3つの方法があります
 LIFFブラウザを下方向へスワイプします。
 
 ![LIFFブラウザの最小化（LIFFブラウザをスワイプする）](https://developers.line.biz/media/liff/minimizing-liff-app/swipe-liff-browser-ja.png)
+
+### アクションボタンからオプションをタップする（LINEバージョン26.7.0未満の場合） 
+
+[アクションボタン](https://developers.line.biz/ja/docs/liff/overview/#action-button)から[マルチタブビュー](https://developers.line.biz/ja/docs/liff/overview/#multi-tab-view)を開き、［**ページを最小化**］オプションをタップします。
+
+![LIFFブラウザの最小化（アクションボタンのオプションをタップする）](https://developers.line.biz/media/liff/minimizing-liff-app/tap-action-button-option-ja.png)
 
 ## LIFFブラウザを最大化する 
 

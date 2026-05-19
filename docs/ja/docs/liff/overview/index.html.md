@@ -92,7 +92,7 @@ LIFFブラウザは、以下の3つの画面サイズで表示できます。
 
 LIFFアプリの画面サイズを`Full`に指定している場合、ヘッダーには、デフォルトでアクションボタンが表示されます。
 
-![](https://developers.line.biz/media/news/2025/liff-action-button-after.png)
+![](https://developers.line.biz/media/line-mini-app/discover/mini-header-action-button-ja.png)
 
 <!-- tip start -->
 
@@ -102,26 +102,24 @@ LINE DevelopersコンソールでLIFFアプリの［**モジュールモード**
 
 <!-- tip end -->
 
-アクションボタンを押すと、[マルチタブビュー](https://developers.line.biz/ja/docs/liff/overview/#multi-tab-view)または[オプション](https://developers.line.biz/ja/docs/liff/overview/#multi-tab-view-option)のどちらかがLINEアプリのバージョンに応じて表示されます。LINEバージョン15.12.0以降ではマルチタブビューが表示され、LINEバージョン15.12.0未満ではオプションが表示されます。
+アクションボタンを押すと、以下に示すLINEアプリのバージョンに応じた機能が表示されます。なお、アクションボタンのアイコンはLINEバージョンによって異なります。
 
-## マルチタブビュー 
+| LINEアプリのバージョン | 表示される機能         |
+| ---------------------- | ---------------------- |
+| 26.7.0以降             | ドロップダウンメニュー |
+| 15.12.0以降26.7.0未満  | マルチタブビュー       |
+| 15.12.0未満            | オプション             |
 
-マルチタブビューには、使用中のLIFFアプリのオプションと最近使用したサービスが表示されます。
+### ドロップダウンメニュー 
 
-1. [オプション](https://developers.line.biz/ja/docs/liff/overview/#multi-tab-view-option)
-1. [最近使用したサービス](https://developers.line.biz/ja/docs/liff/overview/#multi-tab-view-recent-service)
-
-![](https://developers.line.biz/media/liff/overview/liff-multi-tab-view-ja.png)
-
-### オプション 
-
-以下のオプションが、ユーザーのLINEアプリの設定言語で表示されます。
+LINEバージョン26.7.0以降では、アクションボタンをタップすると、以下のドロップダウンメニューが表示されます。
 
 | 項目 | 説明 |
 | --- | --- |
+| **すべてのタブ** | [マルチタブビュー](https://developers.line.biz/ja/docs/liff/overview/#multi-tab-view)を表示します。 |
 | **更新** | 現在開いているページを再読み込みします。 |
-| **シェア** | 現在開いているページの[パーマネントリンク](https://developers.line.biz/ja/glossary/#permanent-link-liff)を、LINEメッセージでシェアします。 |
 | **ページを最小化** | LIFFブラウザを最小化します。詳しくは、「[LIFFブラウザを最小化する](https://developers.line.biz/ja/docs/liff/minimizing-liff-browser/)」を参照してください。 |
+| **シェア** | 現在開いているページの[パーマネントリンク](https://developers.line.biz/ja/glossary/#permanent-link-liff)を、LINEメッセージでシェアします。 |
 | **権限設定** | 権限設定画面を開きます。権限設定画面では、現在開いているLIFFアプリのカメラやマイクへのアクセス権を確認できます。変更はできません。LINEバージョン14.6.0以降で利用可能です。 |
 
 <!-- note start -->
@@ -132,9 +130,9 @@ LINE DevelopersコンソールでLIFFアプリの［**モジュールモード**
 
 <!-- note end -->
 
-### 最近使用したサービス 
+### マルチタブビュー 
 
-最近使用したサービスには、ユーザーが開いたLIFFアプリが、利用履歴の新しい順に最大50件まで表示されます。
+マルチタブビューには、最近使用したサービスが表示されます。最近使用したサービスには、ユーザーが開いたLIFFアプリが、利用履歴の新しい順に最大50件まで表示されます。
 
 LIFFアプリを閉じたり、別のLIFFアプリを新たに開いたりするとその時点のスクリーンショットが利用履歴として表示されます。ユーザーは利用履歴を使って、LIFFアプリを再度開くことができます。
 
