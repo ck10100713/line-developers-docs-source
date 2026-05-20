@@ -285,12 +285,12 @@ Webhookイベントの送信元のLINE公式アカウントのボットのユー
 
 以下のAPIを使うことで、モジュールチャネルをアタッチしたLINE公式アカウントの情報を取得できます。
 
-- [ボットの情報を取得する](https://developers.line.biz/ja/docs/partner-docs/module-technical-using-messaging-api/#get-bot-info)
+- [LINE公式アカウント（ボット）の情報を取得する](https://developers.line.biz/ja/docs/partner-docs/module-technical-using-messaging-api/#get-bot-info)
 - [モジュールをアタッチしたボットのリストを取得する](https://developers.line.biz/ja/docs/partner-docs/module-technical-using-messaging-api/#get-multiple-bot-info)
 
-### ボットの情報を取得する 
+### LINE公式アカウント（ボット）の情報を取得する 
 
-モジュールチャネルをアタッチしたLINE公式アカウントのボットの基本情報を取得します。詳しくは、『Messaging APIリファレンス』の「[ボットの情報を取得する](https://developers.line.biz/ja/reference/messaging-api/#get-bot-info)」を参照してください。
+モジュールチャネルをアタッチしたLINE公式アカウントのボットの基本情報を取得します。詳しくは、『Messaging APIリファレンス』の「[LINE公式アカウント（ボット）の情報を取得する](https://developers.line.biz/ja/reference/messaging-api/#get-bot-info)」を参照してください。
 
 なお、リクエストヘッダーには、以下の内容を指定してください。
 

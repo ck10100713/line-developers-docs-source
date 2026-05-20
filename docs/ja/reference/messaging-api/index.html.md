@@ -15856,15 +15856,15 @@ _エラーレスポンスの例_
 
 <!-- tab end -->
 
-## ボット 
+## LINE公式アカウント（ボット） 
 
-LINE公式アカウントのボットの基本情報を取得できます。
+LINE公式アカウント（ボット）の基本情報を取得できます。
 
-### ボットの情報を取得する 
+### LINE公式アカウント（ボット）の情報を取得する 
 
 Endpoint: `GET` `https://api.line.me/v2/bot/info`
 
-ボットの基本情報を取得します。
+LINE公式アカウント（ボット）の基本情報を取得します。
 
 _リクエストの例_
 
@@ -15904,7 +15904,7 @@ userId
 
 String
 
-ボットのユーザーID
+LINE公式アカウント（ボット）のユーザーID
 
 <!-- parameter end -->
 <!-- parameter start -->
@@ -15913,7 +15913,7 @@ basicId
 
 String
 
-ボットのベーシックID
+LINE公式アカウント（ボット）のベーシックID
 
 <!-- parameter end -->
 <!-- parameter start (props: annotation="含まれないことがあります") -->
@@ -15922,7 +15922,7 @@ premiumId
 
 String
 
-ボットの[プレミアムID](https://developers.line.biz/ja/glossary/#premium-id)。プレミアムIDが未設定の場合、この値は含まれません。
+LINE公式アカウント（ボット）の[プレミアムID](https://developers.line.biz/ja/glossary/#premium-id)。プレミアムIDが未設定の場合、この値は含まれません。
 
 <!-- parameter end -->
 <!-- parameter start -->
@@ -15931,7 +15931,7 @@ displayName
 
 String
 
-ボットの表示名
+LINE公式アカウント（ボット）の表示名
 
 <!-- parameter end -->
 <!-- parameter start (props: annotation="含まれないことがあります") -->
@@ -15940,7 +15940,7 @@ pictureUrl
 
 String
 
-プロフィール画像のURL。「https://」から始まる画像URLです。ボットにプロフィール画像を設定していない場合は、レスポンスに含まれません。
+プロフィール画像のURL。「https://」から始まる画像URLです。LINE公式アカウント（ボット）にプロフィール画像を設定していない場合は、レスポンスに含まれません。
 
 <!-- parameter end -->
 <!-- parameter start -->
