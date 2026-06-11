@@ -38,7 +38,7 @@ LINE SDK 5.0.0 for Android 已發布。關於安裝與使用說明，請參閱 [
 
 ##### Open-source SDK
 
-從 5.0.0 版起，LINE SDK for Android 已開源。請造訪 [our repository](https://github.com/line/line-sdk-android) 查看所提供的程式碼與範例。
+從 5.0.0 版起，LINE SDK for Android 已開源。請造訪[我們的儲存庫](https://github.com/line/line-sdk-android)查看所提供的程式碼與範例。
 
 ##### Detailed reference
 

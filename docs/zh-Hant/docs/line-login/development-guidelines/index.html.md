@@ -84,7 +84,7 @@ LINE Login 開發的基本規則是依據 [Terms and Policies](https://developer
 
 更具體地說，請使用以下格式將其儲存於記錄檔中。
 
-| 收到回應的時間 | Request Method | 授權碼或錯誤回應的記錄 |
+| 收到回應的時間 | 請求方法 | 授權碼或錯誤回應的記錄 |
 | --- | --- | --- |
 | Mon, 16 Jul 2021 10:20:20 GMT | GET | `/callback?code=Zfl2WjsWcn2XBBWApcty&state=n5B9b9FR2BWjloDzEskZMmGysITRTYpjLkM6oD5qfmA` |
 

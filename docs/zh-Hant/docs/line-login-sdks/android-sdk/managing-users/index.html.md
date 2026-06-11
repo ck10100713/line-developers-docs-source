@@ -143,7 +143,7 @@ public void onActivityResult(int requestCode, int resultCode, Intent data) {
 }
 ```
 
-將此處取得的 `idTokenStr` 傳送至你的後端伺服器以[verify ID tokens](https://developers.line.biz/en/docs/line-login-sdks/android-sdk/managing-users/#verify-id-token-on-server)。
+將此處取得的 `idTokenStr` 傳送至你的後端伺服器以[驗證 ID 權杖](https://developers.line.biz/en/docs/line-login-sdks/android-sdk/managing-users/#verify-id-token-on-server)。
 
 #### Verify ID tokens on your backend server 
 

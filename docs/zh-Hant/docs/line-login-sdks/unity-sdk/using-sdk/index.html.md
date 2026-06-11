@@ -26,7 +26,7 @@ LineSDK.Instance.Login(scopes, result => {
 
 ## Getting user profile 
 
-若登入請求是帶著 `profile` scope 送出的，你就可以取得使用者的 LINE 個人檔案資訊。使用者個人檔案包含使用者 ID、顯示名稱、個人檔案媒體（圖片或影片）以及狀態消息。
+若登入請求是帶著 `profile` scope 送出的，你就可以取得使用者的 LINE 個人檔案資訊。使用者個人檔案包含使用者 ID、顯示名稱、個人檔案媒體（圖片或影片）以及狀態訊息。
 
 如下呼叫 `LineAPI.GetProfile` 方法：
 

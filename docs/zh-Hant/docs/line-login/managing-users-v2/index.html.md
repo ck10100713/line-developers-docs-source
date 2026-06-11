@@ -12,7 +12,7 @@
 
 ## Get user profiles 
 
-您可以取得已透過[存取權杖（access token）](https://developers.line.biz/en/docs/line-login/managing-access-tokens/)識別的使用者個人資料。個人資料包含使用者的 ID、顯示名稱、個人檔案圖片，以及狀態消息。
+您可以取得已透過[存取權杖（access token）](https://developers.line.biz/en/docs/line-login/managing-access-tokens/)識別的使用者個人資料。個人資料包含使用者的 ID、顯示名稱、個人檔案圖片，以及狀態訊息。
 
 LINE Login v2.0 與 v2.1 取得使用者個人資料的方法相同。如需深入了解，請參閱 [Getting user profiles](https://developers.line.biz/en/docs/line-login/managing-users/#get-profile)。
 

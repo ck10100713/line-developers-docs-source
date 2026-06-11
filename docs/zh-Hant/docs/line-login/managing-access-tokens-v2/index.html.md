@@ -1,4 +1,4 @@
-# 管理存取權杖（LINE Login v2.0）（Managing access tokens (LINE Login v2.0)）
+# 管理存取權杖（LINE Login v2.0）
 
 <!-- warning start -->
 
@@ -62,7 +62,7 @@
 
 | Property     | Criteria                                                |
 | ------------ | ------------------------------------------------------- |
-| `client_id`  | 與您的應用程式連結的 LINE Login 頻道（channel）的頻道 ID |
+| `client_id`  | 與您的應用程式連結的 LINE Login 頻道的頻道 ID |
 | `expires_in` | 正值                                                    |
 
 <!-- note end -->

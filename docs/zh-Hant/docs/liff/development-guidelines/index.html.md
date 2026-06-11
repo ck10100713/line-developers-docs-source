@@ -21,7 +21,7 @@ LIFF 開發的基本規則是以 [Terms and Policies](https://developers.line.bi
 ## Be sure to securely handle user data 
 
 - 在 LIFF app 與伺服器中使用使用者資料時，若未妥善處理使用者資料，LIFF app 將容易遭受冒用（spoofing）等各種攻擊。關於 LIFF app 與伺服器如何安全地使用從 LIFF app 取得的使用者資料，詳情請參閱 [Using user data in LIFF apps and servers](https://developers.line.biz/en/docs/liff/using-user-profile/)。
-- LIFF endpoint URL 以及 LIFF URL 的 URL 片段（URL fragment）含有存取權杖（access token）與使用者 ID 等敏感資訊，請小心避免資料外洩。
+- LIFF 端點 URL（endpoint URL）以及 LIFF URL 的 URL 片段（URL fragment）含有存取權杖（access token）與使用者 ID 等敏感資訊，請小心避免資料外洩。
 
 ## Cautions for initializing LIFF apps 
 

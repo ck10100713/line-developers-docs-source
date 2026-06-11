@@ -1,4 +1,4 @@
-# 在 App 與伺服器之間建立安全的登入流程（Creating a secure login process between your app and server）
+# 在 App 與伺服器之間建立安全的登入流程
 
 本頁說明在使用 [LINE SDK](https://developers.line.biz/en/docs/line-login/overview/#native-app) 於原生 App 中導入 LINE Login 時，如何安全地處理使用者註冊與登入。
 

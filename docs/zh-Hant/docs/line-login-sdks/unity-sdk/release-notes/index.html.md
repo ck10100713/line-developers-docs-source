@@ -12,4 +12,4 @@ February 26, 2019
 
 ## LINE SDK 1.0.0 for Unity released 
 
-我們發布了 LINE SDK for Unity。請從 [GitHub](https://github.com/line/line-sdk-unity/releases) 下載此 SDK。
+我們發佈了 LINE SDK for Unity。請從 [GitHub](https://github.com/line/line-sdk-unity/releases) 下載此 SDK。

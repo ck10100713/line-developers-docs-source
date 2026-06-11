@@ -76,7 +76,7 @@ func scene(_ scene: UIScene, openURLContexts URLContexts: Set<UIOpenURLContext>)
 
 <!-- note start -->
 
-**If you're not supporting multiple windows**
+**若你不支援多視窗**
 
 如果你的 app 不支援多視窗，iOS 會呼叫你的 `UIApplicationDelegate` 物件來開啟 URL。請改為修改你的 app delegate class。
 

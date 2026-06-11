@@ -1,4 +1,4 @@
-# LIFF plugin（LIFF plugin）
+# LIFF plugin
 
 <!-- table of contents -->
 

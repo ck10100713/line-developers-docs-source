@@ -10,7 +10,7 @@
 
 **建立安全的登入流程**
 
-關於如何安全處理使用者註冊與登入的一般建議，請參閱[Creating a secure login process between your app and server](https://developers.line.biz/en/docs/line-login/secure-login-process/)。
+關於如何安全處理使用者註冊與登入的一般建議，請參閱[在你的 App 與伺服器之間建立安全的登入流程](https://developers.line.biz/en/docs/line-login/secure-login-process/)。
 
 <!-- tip end -->
 

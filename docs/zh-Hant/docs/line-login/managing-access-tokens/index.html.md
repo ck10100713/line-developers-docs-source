@@ -46,4 +46,4 @@
 
 在你自己的伺服器上使用任何從 app 或外部伺服器接收到的存取權杖之前，請先驗證該存取權杖。
 
-如需深入了解如何驗證存取權杖，請參閱 [Using access tokens to register new users](https://developers.line.biz/en/docs/line-login/secure-login-process/#using-access-tokens)。
+如需深入了解如何驗證存取權杖，請參閱[使用存取權杖來註冊新使用者](https://developers.line.biz/en/docs/line-login/secure-login-process/#using-access-tokens)。

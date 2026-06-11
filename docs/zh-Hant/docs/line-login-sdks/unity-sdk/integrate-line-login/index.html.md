@@ -28,7 +28,7 @@
 
 ![Add LineSDK prefab](https://developers.line.biz/media/unity-sdk/adding-prefab.png)
 
-接著，點選場景中的 LineSDK GameObject，並將 **Channel ID** 欄位更新為你的 LINE Login 頻道（channel）ID：
+接著，點選場景中的 LineSDK GameObject，並將 **Channel ID** 欄位更新為你的 LINE Login 頻道 ID：
 
 ![Set Channel ID](https://developers.line.biz/media/unity-sdk/setting-channel-id.png)
 
