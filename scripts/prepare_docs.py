@@ -20,14 +20,22 @@ DST = ROOT / "build" / "docs"
 LINK_RE = re.compile(r"\]\((https://developers\.line\.biz/en/[^)\s]+)\)")
 URL_PREFIX = "https://developers.line.biz/en/"
 
-LANDING = """# LINE Developers 文件（繁體中文）
+# 翻譯快照日期：對應的 LINE 官方文件版本（上游 repo 最新 commit 日）。
+# 重新同步上游後請一併更新此處與 mkdocs.yml 的 copyright。
+SNAPSHOT_DATE = "2026-06-03"
+
+LANDING = f"""# LINE Developers 文件（繁體中文）
 
 這是 [LINE Developers 官方文件](https://developers.line.biz/en/) 的繁體中文翻譯，
 供個人學習參考使用。
 
+!!! info "翻譯快照"
+    本翻譯對應 LINE 官方文件 **{SNAPSHOT_DATE}** 的版本。
+    LINE 之後的更新不會自動反映於此，最新內容請以
+    [官方文件](https://developers.line.biz/en/) 為準。
+
 > 譯文以英文版為來源，僅翻譯內文；本站已將指向官方文件的連結改寫為站內中文頁，
 > 其餘（詞彙表、消息、FAQ 等未翻譯的頁面）仍指向官方網站。
-> 內容若與官方有出入，請以 [官方文件](https://developers.line.biz/en/) 為準。
 
 請使用左側選單瀏覽各分類，或用右上角的搜尋功能查找。
 """
