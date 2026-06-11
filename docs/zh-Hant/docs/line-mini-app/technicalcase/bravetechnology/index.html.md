@@ -1,4 +1,4 @@
-# 排隊管理解決方案如何透過 LINE MINI App 擴展規模：「matoca」與「yoboca」的開發案例（'How queue management solutions are scaling with the LINE MINI App: The development use case of "matoca" and "yoboca"'）
+# 排隊管理解決方案如何透過 LINE MINI App 擴展規模：「matoca」與「yoboca」的開發案例
 
 <!-- tip start -->
 

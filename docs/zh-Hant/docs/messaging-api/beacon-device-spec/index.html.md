@@ -130,7 +130,7 @@ timestamp 為一個無號 64-bit 整數。
 
 - 在 beacon 裝置首次開機時開始遞增 timestamp。
 - timestamp 從零開始，每 15 秒遞增一次。例如，beacon 開機一分鐘後的 timestamp 為 4。
-- 當 beacon 裝置再次開機時，請勿將 timestamp 重設為零。請在關機時繼續遞增 timestamp 值。
+- 當 beacon 裝置再次開機時，請勿將 timestamp 重設為零。即使關機後重新開機，也請繼續從上次的值遞增 timestamp。
 - 當您將 beacon 裝置的 HWID 重新寫入為新核發的 HWID 時，請將 timestamp 重設，從零重新開始。
 
 #### Vendor key 

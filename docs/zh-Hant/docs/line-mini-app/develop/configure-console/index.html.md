@@ -122,7 +122,7 @@ LINE MINI App 頻道設定的下列資訊會顯示給使用者：
 | 資訊        | 設定                                  |
 | ------------------ | ----------------------------------------- |
 | LINE MINI App 名稱 | **Basic settings** tab > **Channel name** |
-| Image              | **Basic settings** tab > **Channel icon** |
+| 圖片               | **Basic settings** tab > **Channel icon** |
 
 ## Add Shortcut screen 
 

@@ -571,7 +571,7 @@ String
 
 代表使用者取消對您應用程式的授權，撤銷（revoke）使用者先前授予的權限。如需更多資訊，請參閱 [LINE Login 開發準則](https://developers.line.biz/en/docs/line-login/development-guidelines/)中的必要事項「[Deauthorize your app when a user unregisters from your app](https://developers.line.biz/en/docs/line-login/development-guidelines/#deauthorize)」。
 
-您也可以使用此端點撤銷 LIFF apps 與 LINE MINI App 的權限。
+您也可以使用此端點撤銷 LIFF apps 與 LINE MINI Apps 的權限。
 
 關於使用者如何取消對其已授予權限的應用程式之授權，請參閱 LINE Login 文件中的 [Managing authorized apps](https://developers.line.biz/en/docs/line-login/managing-authorized-apps/)。
 

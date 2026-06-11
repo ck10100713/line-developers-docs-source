@@ -41,7 +41,7 @@ LINE MINI App 是使用 [LIFF](https://developers.line.biz/en/docs/liff/overview
 
 **自 2025 年 10 月起，LINE MINI App 可在外部瀏覽器中使用**
 
-使用者在外部瀏覽器中開啟 LINE MINI App 時所顯示的畫面已變更。詳情請參閱 2025 年 9 月 26 日的最新消息：[On October 1, 2025, all LINE MINI App users will be able to use the service in a web browser](https://developers.line.biz/en/news/2025/09/26/mini-app-browser/)。
+使用者在外部瀏覽器中開啟 LINE MINI App 時所顯示的畫面已變更。詳情請參閱 2025 年 9 月 26 日的最新消息：[2025 年 10 月 1 日起，所有 LINE MINI App 使用者均可在網頁瀏覽器中使用服務](https://developers.line.biz/en/news/2025/09/26/mini-app-browser/)。
 
 <!-- tip end -->
 

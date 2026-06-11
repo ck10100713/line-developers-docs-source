@@ -361,7 +361,7 @@ String
 
 <!-- note start -->
 
-**Note**
+**注意**
 
 僅會更新 request body 中所指定的屬性。
 

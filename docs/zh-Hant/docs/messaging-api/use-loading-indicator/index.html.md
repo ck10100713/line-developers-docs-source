@@ -6,7 +6,7 @@
 
 ## Display a loading animation 
 
-透過使用 [Display a loading animation](https://developers.line.biz/en/reference/messaging-api/#display-a-loading-indicator) 端點（endpoint），你可以在使用者與 LINE 官方帳號之間的一對一聊天中顯示載入動畫。載入動畫會在經過指定的秒數（5 到 60 秒）後，或當你的 LINE 官方帳號傳來新訊息時自動消失。
+透過使用 [Display a loading animation](https://developers.line.biz/en/reference/messaging-api/#display-a-loading-indicator) 端點，你可以在使用者與 LINE 官方帳號之間的一對一聊天中顯示載入動畫。載入動畫會在經過指定的秒數（5 到 60 秒）後，或當你的 LINE 官方帳號傳來新訊息時自動消失。
 
 ![](https://developers.line.biz/media/messaging-api/loading-indicator/loading-animation.gif)
 

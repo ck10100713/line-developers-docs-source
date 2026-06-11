@@ -8,7 +8,7 @@
 
 <!-- warning end -->
 
-透過 LINE Login API 所管理的存取權杖（access token），可驗證應用程式是否已獲授權，得以存取儲存在 LINE Platform 上的使用者資料（例如使用者 ID、顯示名稱、個人檔案圖片及狀態消息）。
+透過 LINE Login API 所管理的存取權杖（access token），可驗證應用程式是否已獲授權，得以存取儲存在 LINE Platform 上的使用者資料（例如使用者 ID、顯示名稱、個人檔案圖片及狀態訊息）。
 
 本主題說明如何使用 [LINE Login v2.0](https://developers.line.biz/en/docs/line-login/overview/#versions) 端點（endpoint）來管理存取權杖。
 

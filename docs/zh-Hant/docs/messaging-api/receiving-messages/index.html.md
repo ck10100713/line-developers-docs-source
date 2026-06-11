@@ -256,7 +256,7 @@ curl -v -X GET https://api-data.line.me/v2/bot/message/{messageId}/content/previ
 
 ## Get user profile 
 
-你可以使用 [webhook](https://developers.line.biz/en/reference/messaging-api/#webhooks) 中所含的使用者 ID，取得使用者的 LINE Profile（使用者的顯示名稱、user ID、個人檔案圖片 URL、狀態消息等）。
+你可以使用 [webhook](https://developers.line.biz/en/reference/messaging-api/#webhooks) 中所含的使用者 ID，取得使用者的 LINE Profile（使用者的顯示名稱、user ID、個人檔案圖片 URL、狀態訊息等）。
 
 請求範例
 

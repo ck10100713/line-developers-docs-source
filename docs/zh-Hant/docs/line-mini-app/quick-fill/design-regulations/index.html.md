@@ -54,7 +54,7 @@
 
 ### Prohibited screen transitions 
 
-在將 Quick-fill 整合至 LINE MINI App 時，我們禁止以下類型的畫面轉換。若我們發現有應用程式執行了禁止的畫面轉換，我們可能會根據您申請使用 Quick-fill 時所同意的使用條款，撤銷（revoke）Quick-fill 權限。
+在將 Quick-fill 整合至 LINE MINI App 時，我們禁止以下類型的畫面轉換。若我們發現有應用程式執行了禁止的畫面轉換，我們可能會根據您申請使用 Quick-fill 時所同意的使用條款，撤銷 Quick-fill 權限。
 
 - [在沒有可自動填入表單的畫面上顯示對話框](https://developers.line.biz/en/docs/line-mini-app/quick-fill/design-regulations/#show-modal-on-non-auto-fill-form)
 - [取得表單中不存在的項目](https://developers.line.biz/en/docs/line-mini-app/quick-fill/design-regulations/#get-non-existent-item)

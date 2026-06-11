@@ -1,4 +1,4 @@
-# 使用 LINE URL scheme 使用 LINE 功能（Use LINE features with the LINE URL scheme）
+# 透過 LINE URL scheme 使用 LINE 功能
 
 你可以透過 LINE URL scheme 開啟貼圖小舖（Sticker Shop）、LIFF app 或相機。LINE URL scheme 也適用於 LINE 官方帳號（LINE Official Account）。你可以在[圖文選單（rich menus）](https://developers.line.biz/en/docs/messaging-api/using-rich-menus/)中，透過開啟 LINE URL scheme 的[動作（action）](https://developers.line.biz/en/reference/messaging-api/#uri-action)，讓使用者瀏覽 LINE 內容。
 

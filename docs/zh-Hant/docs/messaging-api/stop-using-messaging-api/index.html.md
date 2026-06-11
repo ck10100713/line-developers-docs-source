@@ -8,7 +8,7 @@
 
 <!-- tip end -->
 
-如果您想繼續使用與 Messaging API 頻道（channel）連動的 LINE 官方帳號，但想停止使用 Messaging API，我們建議您執行以下操作。請注意，您無法在保留與 Messaging API 頻道連動的 LINE 官方帳號的情況下，只刪除 Messaging API 頻道。
+如果您想繼續使用與 Messaging API 頻道連動的 LINE 官方帳號，但想停止使用 Messaging API，我們建議您執行以下操作。請注意，您無法在保留與 Messaging API 頻道連動的 LINE 官方帳號的情況下，只刪除 Messaging API 頻道。
 
 <!-- table of contents -->
 

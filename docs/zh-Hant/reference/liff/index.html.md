@@ -200,7 +200,7 @@ liff.init({ liffId: "123456-abcedfg" }, successCallback, errorCallback);
 
 以下範例顯示，當端點 URL 為 `https://example.com/path1/` 時，執行 `liff.init()` 方法的 URL 是否保證能正常運作。某些 LIFF app 功能，例如[多分頁檢視（multi-tab view）](https://developers.line.biz/en/docs/liff/overview/#multi-tab-view)，在不保證運作的 URL 上可能無法正常運作。
 
-| URL to execute `liff.init()`          | Guaranteed to work |
+| 執行 `liff.init()` 的 URL             | 是否保證能正常運作 |
 | ------------------------------------- | ------------------ |
 | `https://example.com/`                | ❌                 |
 | `https://example.com/path1/`          | ✅                 |
@@ -3204,7 +3204,7 @@ liff
 
 如果使用者裝置的 OS 是 iOS，`liff.createShortcutOnHomeScreen()` 方法能正常運作的條件如下。如果在不支援的環境中執行此方法，將顯示錯誤頁面。
 
-| Default browser | iOS version | Whether it works or not |
+| 預設瀏覽器 | iOS 版本 | 是否可運作 |
 | --- | --- | --- |
 | Safari | 所有版本 | 可運作 |
 | Chrome | 16.4 或更新版本 | 可運作 |

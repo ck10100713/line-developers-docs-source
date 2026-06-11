@@ -106,5 +106,5 @@
 
 ## Related links 
 
-- [Messaging API documentation](https://developers.line.biz/en/docs/messaging-api/)
-- [LINE MINI App documentation](https://developers.line.biz/en/docs/line-mini-app/)
+- [Messaging API 說明文件](https://developers.line.biz/en/docs/messaging-api/)
+- [LINE MINI App 說明文件](https://developers.line.biz/en/docs/line-mini-app/)

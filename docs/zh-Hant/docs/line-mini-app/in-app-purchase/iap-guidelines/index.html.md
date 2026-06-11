@@ -83,6 +83,6 @@ class WebhookProcessor {
 
 ### Don't send duplicate payment notifications 
 
-當購買完成時，系統會自動從 LINE 官方帳號「LINE In-App Purchase Notifications（日文為 LINEアプリ內課金お知らせ）」向使用者傳送訊息。同樣地，若使用者在應用程式商店中取消付款，系統也會自動向使用者傳送訊息。
+當購買完成時，系統會自動從 LINE 官方帳號「LINE In-App Purchase Notifications（日文為 LINEアプリ内課金お知らせ）」向使用者傳送訊息。同樣地，若使用者在應用程式商店中取消付款，系統也會自動向使用者傳送訊息。
 
 如果在此之外還從另一個 LINE 官方帳號傳送付款通知，使用者就會多次收到同類型的通知。為了避免降低使用者體驗，請勿傳送重複的通知。

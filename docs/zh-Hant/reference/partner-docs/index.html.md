@@ -615,7 +615,7 @@ Authorization
 <!-- parameter end -->
 <!-- parameter start (props: required) -->
 
-指定 bot user ID 的標頭
+Header specifying the bot's user ID
 
 連結到模組頻道的 LINE 官方帳號 bot 的 user ID。
 
@@ -749,7 +749,7 @@ Authorization
 <!-- parameter end -->
 <!-- parameter start (props: required) -->
 
-指定 bot user ID 的標頭
+Header specifying the bot's user ID
 
 連結到模組頻道的 LINE 官方帳號 bot 的 user ID。
 

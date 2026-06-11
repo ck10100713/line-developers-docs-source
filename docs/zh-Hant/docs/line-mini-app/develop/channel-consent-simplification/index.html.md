@@ -152,7 +152,7 @@ liff.permission.query("profile").then((permissionStatus) => {
 
 下表顯示使用者首次存取 LINE MINI App 時，依其是否已同意簡化而產生的行為差異：
 
-| LINE MINI App | Users have consented to the simplification | Users haven't consented to the simplification |
+| LINE MINI App | 使用者已同意簡化 | 使用者尚未同意簡化 |
 | --- | --- | --- |
 | 「頻道同意簡化」功能已啟用的 LINE MINI App | ![](https://developers.line.biz/media/line-mini-app/channel-consent-simplification/difference-between-consent-and-no-consent-consent-en.png)<br>會略過頻道同意畫面。 | ![](https://developers.line.biz/media/line-mini-app/channel-consent-simplification/difference-between-consent-and-no-consent-no-consent-en.png)<br>會顯示頻道同意畫面。 |
 | 「頻道同意簡化」功能已停用的 LINE MINI App | ![](https://developers.line.biz/media/line-mini-app/channel-consent-simplification/difference-between-consent-and-no-consent-no-consent-en.png)<br>會顯示頻道同意畫面。 | ![](https://developers.line.biz/media/line-mini-app/channel-consent-simplification/difference-between-consent-and-no-consent-no-consent-en.png)<br>會顯示頻道同意畫面。 |

@@ -1,4 +1,4 @@
-# 透過 CNAP 提升 LINE 服務開發效率的案例研究：為 LINE 服務開發導入基礎架構低程式碼（Introducing infrastructure as low code for LINE-based service development case study on improving development efficiency with CNAP）
+# 透過 CNAP 提升 LINE 服務開發效率的案例研究：為 LINE 服務開發導入基礎架構低程式碼
 
 <!-- tip start -->
 

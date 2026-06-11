@@ -128,7 +128,7 @@ curl -v -X POST https://api.line.me/v2/bot/message/push \
 
 <!-- note start -->
 
-**Note**
+**注意**
 
 你無法透過 Messaging API 建立以下類型的受眾：
 

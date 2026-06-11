@@ -1,4 +1,4 @@
-# LINE Messaging API SDK
+# LINE Messaging API SDKs
 
 LINE Messaging API SDK 包含函式庫、工具與範例，讓你能更輕鬆地開始使用 Messaging API 開發機器人應用程式。無論是[官方 SDK](https://developers.line.biz/en/docs/messaging-api/line-bot-sdk/#official-sdks) 還是[社群 SDK](https://developers.line.biz/en/docs/messaging-api/line-bot-sdk/#community-sdks)，皆為開放原始碼，並提供多種程式語言的版本。
 

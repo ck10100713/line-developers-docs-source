@@ -9,7 +9,7 @@ LINE MINI App 同時支援一般模式（normal mode）與橫向模式（landsca
 
 ## For normal mode 
 
-- Bottom: 34px
+- 底部（Bottom）：34px
 
 範例 padding：
 ```
@@ -22,8 +22,8 @@ LINE MINI App 同時支援一般模式（normal mode）與橫向模式（landsca
 
 ## For landscape mode 
 
-- Left and right: 44px
-- Bottom: 21px
+- 左右兩側（Left and right）：44px
+- 底部（Bottom）：21px
 
 範例 padding：
 ```
