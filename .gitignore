@@ -1,2 +1,12 @@
 .DS_Store
 
+# MkDocs 建置產物（可重建，不納入版控）
+build/
+site/
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+

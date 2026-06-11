@@ -1,0 +1,45 @@
+site_name: LINE Developers 文件（繁體中文）
+site_description: LINE Developers 官方文件的繁體中文翻譯（個人學習用）
+site_url: https://ck10100713.github.io/line-developers-docs-source/
+
+docs_dir: build/docs
+use_directory_urls: true
+
+theme:
+  name: material
+  language: zh-Hant
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      toggle:
+        icon: material/brightness-7
+        name: 切換為深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      toggle:
+        icon: material/brightness-4
+        name: 切換為淺色模式
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - tables
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
